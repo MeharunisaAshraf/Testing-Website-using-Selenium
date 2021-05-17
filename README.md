@@ -1,6 +1,6 @@
 # Testing-Website-using-Selenium
- [ctrl + shift + p] ## Tools
- [ctrl + shift + p]###### -Pycharm [Installation](https://www.jetbrains.com/pycharm/download/#section=windows)
+## Tools
+###### -Pycharm [Installation](https://www.jetbrains.com/pycharm/download/#section=windows)
 ###### -Selenium [Drivers](https://www.selenium.dev/)
 ## Learning Material
 ###### **Visit Selenium Python bindings Documentation**
